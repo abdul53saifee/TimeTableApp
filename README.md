@@ -1,0 +1,1 @@
+A simple offline android app for college students to get information of ongoing lectures, set the notification for lectures not to be missed out, some push notification(requires internet for this additional activity) for important notification
